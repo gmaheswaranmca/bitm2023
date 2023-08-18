@@ -1,0 +1,34 @@
+Day-wise topic-wise Coding Questions
+Day 1: 
+Basic Programming:
+https://www.codechef.com/problems/CANDY123	
+https://www.hackerrank.com/challenges/staircase/problem	
+https://www.codechef.com/problems/TABLET
+https://www.codechef.com/problems/VCS?tab=statement	
+Arrays
+https://leetcode.com/problems/two-sum/
+https://www.codechef.com/problems/PROC18A
+https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true
+https://leetcode.com/problems/richest-customer-wealth/description/			
+Strings:
+https://www.codechef.com/problems/ALPHABET?tab=statement	
+https://www.hackerrank.com/challenges/camelcase/problem	
+https://leetcode.com/problems/roman-to-integer/description/
+https://www.codechef.com/problems/CALPOWER?tab=statement		
+
+Day 2:
+Stacks:
+https://www.hackerrank.com/challenges/simple-text-editor/problem	
+https://www.hackerrank.com/challenges/largest-rectangle/problem	
+https://leetcode.com/problems/valid-parentheses/description/
+https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/katrina-and-library-c2ed51f3/		
+
+Queues:
+https://www.hackerrank.com/challenges/queue-using-two-stacks/problem	
+https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/	
+https://www.hackerrank.com/challenges/down-to-zero-ii/problem	
+https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/practice-problems/algorithm/disk-tower-b7cc7a50/	
+
+Dynamic Programming:
+https://leetcode.com/problems/longest-palindromic-substring/
+https://leetcode.com/problems/jump-game/	
