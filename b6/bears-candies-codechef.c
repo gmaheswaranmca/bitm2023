@@ -14,11 +14,15 @@ void solve(){
 		I++;
 	}
 	
+	
+	
+	
+	
 	if(Limak <= A){
-		printf("Limak");
+		printf("Limak\n");
 	}
 	else if(Bob <= B){
-		printf("Bob");
+		printf("Bob\n");
 	}
 }
 int main(){
@@ -29,3 +33,6 @@ int main(){
 	}
 	
 }
+
+
+
