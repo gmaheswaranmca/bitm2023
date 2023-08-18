@@ -1,0 +1,101 @@
+#002
+
+Q1
+If unsigned int is 2 bytes
+int main()
+{
+	unsigned int a=0xFFFF;
+	~a;
+	printf("%x\n", a);
+}
+
+[a] FFFF	[b] 0000	[c] 00FF	[d] DDFD
+
+Answer: 
+
+Q2
+An array of 3 function pointers to character
+
+[a] char *ptr[3]();		[c] char (*ptr[3])();
+[b] char *ptr[3];		[d] char **ptr[3];
+
+Answer: 
+
+Q3
+What is the output of the following code 
+int main()
+{
+	int x=10, y=10, z=5,i;
+	i = x < y < z;
+	printf("%d", i);
+}
+[a] 0		[b] 10		[c] 5		[d] 1
+
+Answer: 
+
+Q4
+Which of 's', 't', and 'u' variable(s) is/are available to a function present
+in another source file?
+
+extern	int s;
+int	t;	//Global
+static	int u;
+
+[a] only s	[b] s and t	[c] s, t and u	[d] none
+
+Answer: 
+
+Q5
+Which of the following cannot be a struct member?
+[a] another struct	[b] array	[c] function	[d] none
+
+Answer: 
+
+Q6
+#include <stdio.h>
+double a;
+int main()
+{
+	(int)(float)(char)a;
+	printf("%d", sizeof(a));
+}
+[a] 4		[b] 8		[c] 16		[d] 22
+
+Answer: 
+
+Q7
+const char *ptr="Hello";
+ptr[0]='C';
+printf("%s", ptr);
+
+[a] Cello	[b] Hello	[c] Compile Error [d] Runtime err
+
+Answer: 
+
+Q8
+int p=10, q=100, r=6;
+r = p>10; q++;
+
+//Find the value of q and r
+printf("%d and %d", q, r);
+
+[a] 101	and 1	[b] 100 and 0	[c] 100 and 1	[d] 101 and  0
+
+Answer:  
+
+Q9
+#define		STR	"Hello %s"
+main()
+{
+	printf(STR, STR);
+}
+[a] Hello Hello %s		[c] Hello %s
+[b] Hello %s Hello		[d] Hello
+
+Answer: 
+
+Q10
+Relational operator is
+[a] !		[b] >		[c] ?:		[d] >>
+
+Answer: 
