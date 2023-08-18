@@ -1,8 +1,16 @@
+Practice Hackerrank to improve logic / debugging / syntax of the language:
 https://www.hackerrank.com/contests/fundamentals-of-programming/challenges
 
 
+
+Code Chef - Coding Question
+
 https://www.codechef.com/problems/CANDY123
 
+
+
+
+Test / Exam on 18.8.2023
 
 https://forms.gle/oeDuwDhuv19UXo9v5
 
