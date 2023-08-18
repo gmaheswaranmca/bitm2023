@@ -11,7 +11,7 @@ int main()
 
 [a] FFFF	[b] 0000	[c] 00FF	[d] DDFD
 
-Answer: 
+Answer: [a]
 
 Q2
 An array of 3 function pointers to character
@@ -19,7 +19,7 @@ An array of 3 function pointers to character
 [a] char *ptr[3]();		[c] char (*ptr[3])();
 [b] char *ptr[3];		[d] char **ptr[3];
 
-Answer: 
+Answer: [c]
 
 Q3
 What is the output of the following code 
@@ -31,7 +31,7 @@ int main()
 }
 [a] 0		[b] 10		[c] 5		[d] 1
 
-Answer: 
+Answer: [d]
 
 Q4
 Which of 's', 't', and 'u' variable(s) is/are available to a function present
@@ -43,13 +43,13 @@ static	int u;
 
 [a] only s	[b] s and t	[c] s, t and u	[d] none
 
-Answer: 
+Answer: [a]
 
 Q5
 Which of the following cannot be a struct member?
 [a] another struct	[b] array	[c] function	[d] none
 
-Answer: 
+Answer: [c]
 
 Q6
 #include <stdio.h>
@@ -61,7 +61,7 @@ int main()
 }
 [a] 4		[b] 8		[c] 16		[d] 22
 
-Answer: 
+Answer: [b]
 
 Q7
 const char *ptr="Hello";
@@ -70,7 +70,7 @@ printf("%s", ptr);
 
 [a] Cello	[b] Hello	[c] Compile Error [d] Runtime err
 
-Answer: 
+Answer: [c]
 
 Q8
 int p=10, q=100, r=6;
@@ -81,7 +81,7 @@ printf("%d and %d", q, r);
 
 [a] 101	and 1	[b] 100 and 0	[c] 100 and 1	[d] 101 and  0
 
-Answer:  
+Answer: [d] 
 
 Q9
 #define		STR	"Hello %s"
@@ -92,10 +92,10 @@ main()
 [a] Hello Hello %s		[c] Hello %s
 [b] Hello %s Hello		[d] Hello
 
-Answer: 
+Answer: [a]
 
 Q10
 Relational operator is
 [a] !		[b] >		[c] ?:		[d] >>
 
-Answer: 
+Answer: [b]
